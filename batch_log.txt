@@ -1,0 +1,149 @@
+Plants needing images: 404
+Starting download (3s delay between requests)...
+[1/50] Ageratina altissima
+    Downloaded: ageratina_altissima.jpg
+[2/50] Agrostis hyemalis
+    Downloaded: agrostis_hyemalis.jpg
+[3/50] Agrostis perennans
+    Downloaded: agrostis_perennans.jpg
+[4/50] Agrostis scabra
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[5/50] Alisma subcordatum
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[6/50] Allium canadense
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[7/50] Allium tricoccum
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[8/50] Alnus serrulata
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[9/50] Amelanchier arborea
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[10/50] Amelanchier canadensis
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[11/50] Ammophila breviligulata
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[12/50] Anaphalis margaritacea
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[13/50] Andropogon gerardii
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[14/50] Andropogon glomeratus
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[15/50] Anemone canadensis
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[16/50] Anemone quinquefolia
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[17/50] Anemone virginiana
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[18/50] Antennaria neglecta
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[19/50] Antennaria plantaginifolia
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[20/50] Anthoxanthum nitens ssp. nitens
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[21/50] Apios americana
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[22/50] Apocynum cannabinum
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[23/50] Aquilegia canadensis
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[24/50] Aralia nudicaulis
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[25/50] Aralia racemosa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[26/50] Arisaema triphyllum
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[27/50] Aristida dichotoma
+    No image found
+[28/50] Aristida purpurascens
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[29/50] Aristida tuberculosa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[30/50] Aronia arbutifolia
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[31/50] Aronia melanocarpa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[32/50] Aronia prunifolia
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[33/50] Asarum canadense
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[34/50] Asclepias exaltata
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[35/50] Asclepias incarnata
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[36/50] Asclepias syriaca
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[37/50] Asclepias tuberosa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[38/50] Asplenium platyneuron
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[39/50] Athyrium angustum
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[40/50] Attacked by
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[41/50] Avenella flexuosa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[42/50] Baptisia tinctoria
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[43/50] Betula alleghaniensis
+    Downloaded: betula_alleghaniensis.jpg
+[44/50] Betula lenta
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[45/50] Betula populifolia
+    Downloaded: betula_populifolia.jpg
+[46/50] Bidens frondosa
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[47/50] Boehmeria cylindrica
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[48/50] Bolboschoenus robustus
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[49/50] Borodinia canadensis
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+[50/50] Cakile edentula
+    Download failed: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+    Failed to save
+
+Downloaded 5 new images
+Updated plants.json

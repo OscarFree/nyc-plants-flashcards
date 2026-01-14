@@ -1,0 +1,121 @@
+Processing 418 plants...
+[1/418] Searching: Abies balsamea (Balsam fir)
+  Downloaded: abies_balsamea.jpg
+[2/418] Searching: Acer negundo (Boxelder)
+  Downloaded: acer_negundo.jpg
+[3/418] Searching: Acer rubrum (Red maple)
+  Downloaded: acer_rubrum.jpg
+[4/418] Searching: Acer saccharinum (Silver maple)
+  Downloaded: acer_saccharinum.jpg
+[5/418] Searching: Acer saccharum (Sugar maple)
+  Downloaded: acer_saccharum.jpg
+[6/418] Searching: Acorus americanus (Sweetflag)
+  Downloaded: acorus_americanus.png
+[7/418] Searching: Actaea pachypoda (Doll's eyes)
+  Downloaded: actaea_pachypoda.jpg
+[8/418] Searching: Actaea racemosa (Black cohosh)
+  Downloaded: actaea_racemosa.jpg
+[9/418] Searching: Adiantum pedatum (Northern maidenhair fern)
+  Downloaded: adiantum_pedatum.jpg
+[10/418] Searching: Agalinis purpurea (Purple false foxglove)
+  Downloaded: agalinis_purpurea.jpg
+[11/418] Searching: Agastache scrophulariifolia (Purple giant hyssop)
+  Downloaded: agastache_scrophulariifolia.jpg
+[12/418] Searching: Ageratina altissima (Common white snakeroot)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[13/418] Searching: Agrostis hyemalis (Winter bentgrass)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[14/418] Searching: Agrostis perennans (Autumn bentgrass)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[15/418] Searching: Agrostis scabra (Rough bentgrass)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[16/418] Searching: Alisma subcordatum (Southern water plantain)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[17/418] Searching: Allium canadense (Meadow garlic)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[18/418] Searching: Allium tricoccum (Wild leek)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[19/418] Searching: Alnus serrulata (Smooth alder)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[20/418] Searching: Amelanchier arborea (Common serviceberry)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[21/418] Searching: Amelanchier canadensis (Canadian serviceberry)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[22/418] Searching: Amelanchier laevis (Allegany serviceberry)
+  Downloaded: amelanchier_laevis.jpg
+[23/418] Searching: Ammophila breviligulata (American beachgrass)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[24/418] Searching: Anaphalis margaritacea (Pearly everlasting)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[25/418] Searching: Andropogon gerardii (Big bluestem)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[26/418] Searching: Andropogon glomeratus (Bushy bluestem)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[27/418] Searching: Andropogon virginicus (Broom sedge bluestem)
+  Downloaded: andropogon_virginicus.jpg
+[28/418] Searching: Anemone canadensis (Canadian anemone)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[29/418] Searching: Anemone quinquefolia (Wood anemone)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[30/418] Searching: Anemone virginiana (Tall thimbleweed)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[31/418] Searching: Antennaria neglecta (Field pussytoes)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[32/418] Searching: Antennaria plantaginifolia (Woman's tobacco)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[33/418] Searching: Anthoxanthum nitens ssp. nitens (Sweetgrass)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[34/418] Searching: Apios americana (Groundnut)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[35/418] Searching: Apocynum cannabinum (Indianhemp)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[36/418] Searching: Aquilegia canadensis (Wild columbine)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[37/418] Searching: Aralia nudicaulis (Wild sarsaparilla)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[38/418] Searching: Aralia racemosa (American spikenard)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[39/418] Searching: Arisaema triphyllum (Jack- in-the-pulpit)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[40/418] Searching: Aristida dichotoma (Churchmouse threeawn)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[41/418] Searching: Aristida purpurascens (Arrowfeather threeawn)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[42/418] Searching: Aristida tuberculosa (Seaside threeawn)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[43/418] Searching: Aronia arbutifolia (Red chokeberry)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[44/418] Searching: Aronia melanocarpa (Black chokeberry)
+  Download error: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach (0c640b1)
+  Failed to download image
+[45/418] Searching: Aronia prunifolia (Purple chokeberry)
